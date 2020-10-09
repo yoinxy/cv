@@ -1,0 +1,22 @@
+body{
+  background-color: #a1eafb;
+font-family: sans-serif;
+}
+
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: thick;
+  height: 0px;
+  width: 15%
+}
+h1{
+font-family: monospace;
+  color: #66bfbf
+}
+h3{
+
+ color: #66bfbf
+}
